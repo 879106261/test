@@ -1,0 +1,5 @@
+pullG7Data.py脚本，将G7的制图范围数据和机构数据抓取到本地
+G7TxtToDB.py脚本，将抓取下来的G7数据导入数据库中
+orgExceltoDB.py脚本，用于将EXCEL中的机构信息导入数据库
+transferGisData.py将G7数据转换为新GIS系统的数据
+transferAreaData.py生成org_release表数据
